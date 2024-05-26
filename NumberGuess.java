@@ -39,3 +39,23 @@ public class NumberGuess {
         System.out.println("Your guess is CORRECT! It took you "+ counter+ " tries.");
     }
 }
+
+
+/* 
+
+OUTPUT: 
+
+Guess a number between 1 and 100: 45
+Guess again! (HINT:Try a lower number).
+34
+Guess again! (HINT: Try a higher number).
+40
+Guess again! (HINT: Try a higher number).
+43
+Guess again! (HINT:Try a lower number).
+42
+Guess again! (HINT:Try a lower number).
+41
+Your guess is CORRECT! It took you 6 tries.
+
+*/
